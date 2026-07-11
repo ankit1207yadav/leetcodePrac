@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -70,5 +71,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
