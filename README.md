@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 ## Hash Table
@@ -84,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
