@@ -12,7 +12,8 @@ public:
 
     vector<string> generateParenthesis(int n) {
         vector <string> res;
-        backtrack("",0,0,n,res);
+        string curr="";
+        backtrack(curr,0,0,n,res);
         return res;
     }
 };
