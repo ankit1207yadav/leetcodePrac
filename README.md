@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0004-median-of-two-sorted-arrays) |
 | [0039-combination-sum](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
