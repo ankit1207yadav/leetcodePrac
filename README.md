@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
