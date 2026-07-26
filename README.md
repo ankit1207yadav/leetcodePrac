@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3536-maximum-product-of-two-digits) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0242-valid-anagram) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
