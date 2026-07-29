@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -133,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
