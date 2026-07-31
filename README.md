@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -140,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
+## Greedy
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Counting
+|  |
+| ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 <!---LeetCode Topics End-->
