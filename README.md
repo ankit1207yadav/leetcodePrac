@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0643-maximum-average-subarray-i) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0643-maximum-average-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
