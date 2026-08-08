@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
