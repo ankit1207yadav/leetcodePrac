@@ -166,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0877-stone-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
