@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ankit1207yadav/leetcodePrac/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ankit1207yadav/leetcodePrac/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0022-generate-parentheses) |
+| [0746-min-cost-climbing-stairs](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/ankit1207yadav/leetcodePrac/tree/master/0877-stone-game) |
 ## Stack
 |  |
